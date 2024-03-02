@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+}
+.content{
+    margin: 200px 50px;
+    padding: 50px 50px;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ct_body{
+    padding: 5px 50px;
+}
+#header{
+    font-size: larger;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+#text{
+    font-size: small;
+    font-weight: 0;
+    color: rgb(209, 212, 215);
+    padding: 500px auto;
+}
+.row{
+    display: flex;
+    margin-top: 20px;
+    font-weight: 0;
+    color: rgb(209, 212, 215);
+   
+}
+ul{
+    list-style-type: none;
+
+    align-items: left;
+}
+ul li{
+    text-align: center;
+    margin: 10px;
+}

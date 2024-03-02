@@ -1,0 +1,28 @@
+*{
+    
+    
+    box-sizing: border-box;
+}
+.ct_body{
+   
+}
+.row{
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    /* justify-content: space-between; */
+}
+.item{
+    
+    margin: 8px;
+    padding:0 2mm;
+    border-style: none;
+    background-color: rgb(29, 138, 138);
+    font-weight: 500;
+}
+.ct_bd_text{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 5px;
+    padding-bottom: 10px;
+}

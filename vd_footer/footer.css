@@ -1,0 +1,43 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.container{
+    margin: 30px;
+    padding:30px;
+    background-color: rgb(234, 107, 43);
+    color:black
+    margin-top: 10px;
+    align-content: center;
+} 
+/* .container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .item1, .item2, .item3 {
+    width: 33%;
+    background-color: #ccc;
+    margin: 10px;
+  } */
+  .content{
+    display: flex;
+    justify-content: space-between;
+    
+  }
+.item_header{
+    margin: 20px 0;
+    
+}
+.input{
+  width: 200px;
+  height: 30px;
+}
+.btn{
+  color:black;
+}
+
+  
+
